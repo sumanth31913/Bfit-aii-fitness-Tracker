@@ -190,7 +190,7 @@ ng test
 
 # 👨‍💻 Author
 
-Developed by **K.venu gopal**
+Developed by **M.Sumanth**
 
 ---
 
